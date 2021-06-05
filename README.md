@@ -7,3 +7,6 @@ https://github.com/ztaku/vscode-test.git
 登録が完了すると、このようにURLが表示されるのでコピーする。
 
 https://github.com/ztaku/vscode-test.git
+
+ssh接続にした。
+
