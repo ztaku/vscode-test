@@ -10,3 +10,4 @@ https://github.com/ztaku/vscode-test.git
 
 ssh接続にした。
 
+1行追加
