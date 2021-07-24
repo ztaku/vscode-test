@@ -14,3 +14,9 @@ ssh接続にした。
 
 sourcetreeで接続した。
   ツールのoptionのSSHクライアントをOpenSSHにする。
+
+
+
+ppkファイルを使う場合はいかに説明がある。
+
+https://blitzgate.co.jp/blog/2317/
