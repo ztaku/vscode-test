@@ -17,6 +17,6 @@ sourcetreeで接続した。
 
 
 
-ppkファイルを使う場合はいかに説明がある。
+ppkファイルを使う場合は以下に説明がある。
 
 https://blitzgate.co.jp/blog/2317/
