@@ -16,7 +16,19 @@ sourcetreeで接続した。
   ツールのoptionのSSHクライアントをOpenSSHにする。
 
 
-
 ppkファイルを使う場合は以下に説明がある。
 
 https://blitzgate.co.jp/blog/2317/
+
+------------------
+vsc 左欄のsource control(Ctrl+Shift+G)にファイル名が表示される。
++ ステージングされる。
+- ステージング解除
+M 比較windowが表示される。
+
+一番上の行で...でメニューが開く
+commit
+push
+pull
+stash
+等ができる。
